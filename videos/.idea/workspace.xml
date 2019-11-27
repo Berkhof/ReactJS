@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4a95fe2-88d2-433d-a243-f50185700fb4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/React.Js.Udemy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comments/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comments/.idea/courses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comments/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comments/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comments/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comments/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comments/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comments/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comments/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comments/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comments/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comments/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comments/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comments/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comments/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comments/src/ApprovalCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comments/src/CommentDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comments/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search-bar/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search-bar/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search-bar/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search-bar/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search-bar/.idea/search-bar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search-bar/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search-bar/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search-bar/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search-bar/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search-bar/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search-bar/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search-bar/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search-bar/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search-bar/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search-bar/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search-bar/src/Components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search-bar/src/Components/ImageCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search-bar/src/Components/ImageList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search-bar/src/Components/ImageList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search-bar/src/Components/SearchBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search-bar/src/api/unsplash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search-bar/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seasons/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seasons/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seasons/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seasons/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seasons/.idea/seasons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seasons/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seasons/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seasons/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seasons/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seasons/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seasons/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seasons/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seasons/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seasons/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seasons/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seasons/src/SeasonDisplay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seasons/src/SeasonDisplay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seasons/src/Spinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seasons/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/videos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/apis/youtube.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SearchBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VideoDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VideoItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VideoItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VideoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1T4qFrcKpjeBOnM3tOnrwkKoVVP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4a95fe2-88d2-433d-a243-f50185700fb4" name="Default Changelist" comment="" />
+      <created>1572729614830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572729614830</updated>
+      <workItem from="1572729616752" duration="9342000" />
+      <workItem from="1572781532459" duration="3907000" />
+      <workItem from="1572789324269" duration="208000" />
+      <workItem from="1572789873146" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
